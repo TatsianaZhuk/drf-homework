@@ -1,0 +1,18 @@
+pip install django
+django-admin startproject drf
+python .\manage.py runserver 8000
+python .\manage.py startapp cars
+python .\manage.py makemigrations cars
+python .\manage.py migrate
+python .\manage.py createsuperuser
+pip install djangorestframework
+pip install django-upgrade
+pip install -U drf-yasg
+pip install -U drf-yasg[validation]
+pip install django-filter
+
+admin
+admin
+
+user
+user3434
