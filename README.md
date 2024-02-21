@@ -1,2 +1,2 @@
 # drf-homework
-my rdf api project
+my drf api project
